@@ -15,7 +15,7 @@ Also, to visulaize the data based on some paramters passed on in the query and s
 
 ## Using my RESTful API
 To run the API server. 
-execute the command "python cognitev.py"
+execute the command "python api_server.py"
 
 There is 5 Endpoints in the Server:
 
